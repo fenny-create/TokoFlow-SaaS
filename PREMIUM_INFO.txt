@@ -1,0 +1,49 @@
+TOKOFLOW PROFESSIONAL V17 - PREMIUM READY
+==========================================
+
+BASIC GRATIS
+- Kasir / POS
+- Produk & kategori
+- Stok
+- Pembelian / restock
+- Supplier
+- Pelanggan
+- Pengeluaran
+- Laporan dasar
+- Riwayat transaksi
+- Cetak struk
+
+PREMIUM
+PRO: Rp149.000 / 30 hari
+BUSINESS: Rp299.000 / 30 hari
+
+Fitur lanjutan:
+- Multi kasir & hak akses
+- Shift kasir
+- Promo & diskon otomatis
+- Retur
+- Piutang
+- Stock opname
+- Backup database
+- Audit log
+- Analitik bisnis
+- Tema & branding PRO
+- Payment gateway (fondasi konfigurasi)
+
+AKTIVASI DEMO LOKAL
+- TOKOFLOW-PRO-DEMO
+- TOKOFLOW-BUSINESS-DEMO
+
+Catatan: kode di atas adalah kode demo lokal untuk pengujian aplikasi, bukan bukti pembayaran dan bukan lisensi komersial yang dijual ke publik.
+Untuk pembayaran produksi, aplikasi perlu dihubungkan ke sistem pembayaran/penjual resmi dan kode lisensi diterbitkan setelah pembayaran diverifikasi.
+
+AKUN DEVELOPER
+Email: developer@tokoflow.local
+Password: dev123456
+
+AKUN DEMO
+Email: admin@tokoflow.local
+Password: admin123
+
+UJI TOKO NYATA
+http://localhost/TokoFlow/index.php?p=store_test
